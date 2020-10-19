@@ -1,14 +1,5 @@
-/* Provide sufficient contrast against white background */
-a {
-  color: #0366d6;
-}
-
-code {
-  color: #E01A76;
-}
-
-.btn-primary {
-  color: #fff;
-  background-color: #1b6ec2;
-  border-color: #1861ac;
+body, html {
+    overflow-x: hidden;
+    background-color: #1f2d40;
+    color: rgba(255, 255, 255, 0.9);
 }

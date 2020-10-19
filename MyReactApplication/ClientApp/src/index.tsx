@@ -1,4 +1,7 @@
-import 'bootstrap/dist/css/bootstrap.css';
+import 'primereact/resources/themes/vela-blue/theme.css';
+import 'primereact/resources/primereact.min.css';
+import 'primeicons/primeicons.css';
+import 'primeflex/primeflex.css';
 
 import * as React from 'react';
 import * as ReactDOM from 'react-dom';
